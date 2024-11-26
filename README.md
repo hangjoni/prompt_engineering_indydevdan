@@ -1,0 +1,2 @@
+- Build a personal prompt library that is re-usable
+- Marimo that is a tool that provides an interface for prompt library

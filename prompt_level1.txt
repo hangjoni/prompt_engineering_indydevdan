@@ -1,0 +1,1 @@
+EXCLUSIVELY: output a sqlite table: User {id, email, address, isMember}

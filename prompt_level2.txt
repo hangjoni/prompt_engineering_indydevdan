@@ -1,0 +1,16 @@
+<purpose>
+    Convert the typescript interface into a sql table
+</purpose>
+
+<instructions>
+    <instructionUse postgres dialect></instruction>
+    <instruction>Respond only with table definition</instruction>
+    <instruction>Also respond with create, update, select and delete statements</instruction>
+</instructions>
+
+<interface>
+    interface Users {
+        id: string
+        email: string
+    }
+</interface>

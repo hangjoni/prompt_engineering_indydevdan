@@ -1,0 +1,37 @@
+<purpose>
+    Summarize the given context based on the instrution and example-output
+</purpose>
+
+<instructions>
+    <instruction>Output in markdown format</instruction>
+    <instruction>Summarize into 4 sections: High level  summary, Main Points, Sentiment, and 3 hot takes biased towards and 3 biased against the author</instruction>
+    <instruction>Write the summary in the same format as the example output</instruction>   
+</instructions>
+
+<example-output>
+    # Title
+
+    ## High Level summary
+
+    ## Main Points
+
+    ## Sentiment
+
+    ## Hot Takes biased towards author
+
+    ## Hot Takes biased against the author
+</example-output>
+
+<content>
+    Leaked system prompts from Vercel v0. v0 is Vercel's entry in the increasingly crowded LLM-assisted development market - chat with a bot and have that bot build a full application for you.
+
+They've been iterating on it since launching in October last year, making it one of the most mature products in this space.
+
+Somebody leaked the system prompts recently. Vercel CTO Malte Ubl said this:
+
+When @v0 first came out we were paranoid about protecting the prompt with all kinds of pre and post processing complexity.
+
+We completely pivoted to let it rip. A prompt without the evals, models, and especially UX is like getting a broken ASML machine without a manual
+
+# 9:17 pm / evals, vercel, ai, llms, prompt-engineering, prompt-injection, ai-assisted-programming, generative-ai
+</content>

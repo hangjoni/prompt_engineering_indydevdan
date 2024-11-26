@@ -1,0 +1,13 @@
+<purpose>
+</purpose>
+
+<instructions>
+    <instruction></instruction>
+</instructions>
+
+<example-output>
+</example-output>
+
+<content>
+    {{content}}
+</content>

@@ -11,3 +11,7 @@
 <content>
     {{content}}
 </content>
+
+<another-key-word-referenced-in-instruction>
+    {{another-keyword-referenced-in-instruction}}
+</another-key-word-referenced-in-instruction>
